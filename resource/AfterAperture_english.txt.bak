@@ -1,0 +1,9 @@
+lang
+{
+	Language "English"
+	Tokens
+	{
+		AfterAperture_Chapter1_Title	"Chapter 1 - The Beginning"
+		AfterAperture_Chapter2_Title	"im lazy so its not done yet"
+	}
+}
